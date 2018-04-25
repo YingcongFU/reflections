@@ -20,5 +20,7 @@ The diagrams show each branch you created visually, so that you can easily see w
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The commits in the child branch are merged into the parent branch.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
