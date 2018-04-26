@@ -24,3 +24,5 @@ The commits in the child branch are merged into the parent branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros: saves time. Cons: hard to track.
