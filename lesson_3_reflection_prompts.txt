@@ -11,12 +11,16 @@ Sometimes you don't want to be updated with your remote repository especially of
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork: copy the repository to your own account on Github. Use it when you don't want to make changes to the original repository.
+
+Clone: copy the whole repository to your local.
+
+Branches: track different path of the commits on your local.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+To keep track of what you've already put on the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
